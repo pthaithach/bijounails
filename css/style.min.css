@@ -40,7 +40,7 @@ a {
     font-weight: 600;
 }
 .team-social-links a{
-    color: #e55900;
+    color: #af5184;
 }
 
 a:focus,
@@ -126,7 +126,7 @@ a:hover {
 
 #navbar-header {
     height: 100px;
-    background: #8070b7;
+    background: #ffebf6;
 }
 
 #navbar-header .navbar-nav .dropdown-menu {
@@ -170,8 +170,8 @@ a:hover {
 
 .btn-primary {
     display: inline-block;
-    background-color: #d167d0;
-    border-color: #d167d0;
+    background-color: #d572a8;
+    border-color: #d572a8;
     color: #fff;
     border-radius: 15px;
     padding: 10px 25px;
@@ -490,7 +490,7 @@ a:hover {
     z-index: 1002;
     top: 0;
     left: 0;
-    background-color: #6e5f9d;
+    background-color: #bc8aa5;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -780,7 +780,7 @@ a:hover {
 .left-column-day {
     width: 90px;
     display: inline-block;
-    color: #999
+    color: #ddd
 }
 
 .btn.focus, .btn:focus {
@@ -817,8 +817,8 @@ a:hover {
 }
 
 .btn-primary:hover {
-    background-color: #870784 !important;
-    border-color: #870784 !important;
+    background-color: #9b527b !important;
+    border-color: #9b527b !important;
     color: white;
 }
 
@@ -829,22 +829,23 @@ a:hover {
 }
 
 .bg-coffee {
-    background: #322a4e !important;
+    background: #745465 !important;
+    border-top: 1px solid #8a6579;
 }
 
 .booking-big {
     font-weight: 500;
     font-size: 20px;
     padding: 10px 40px;
-    border: 2px solid #b819b2;
-    background: #b819b2 !important;
+    border: 2px solid #d572a8;
+    background: #d572a8 !important;
     color: #fff;
 
 }
 
 .booking-big:hover {
-    border: 2px solid #870784 !important;
-    background: #870784 !important;
+    border: 2px solid #9b527b !important;
+    background: #9b527b !important;
     color: #fff;
 }
 
@@ -860,7 +861,7 @@ a:hover {
     }
 
     #navbar-header {
-        background: #322a4e;
+        background: #763e5d;
     }
 
     .lnr {
@@ -877,7 +878,7 @@ a:hover {
 }
 
 .nav-link-footer {
-    color: #7c67c1 !important;
+    color: #d572a8 !important;
 }
 
 .nav-link-footer:hover {
@@ -903,7 +904,7 @@ a:hover {
 }
 
 .text-pink {
-    color: #806ebb;
+    color: #cd8fb1;
     font-weight: 300;
 }
 
@@ -912,11 +913,11 @@ a:hover {
 }
 
 .text-about-footer {
-    color: #999;
+    color: #ddd;
 }
 
 .color-silver {
-    color: #C0C0C0;
+    color: #fff;
 }
 
 .title-color {
@@ -924,18 +925,18 @@ a:hover {
 }
 
 .color-silver-2 {
-    color: #999;
+    color: #ddd;
 }
 
 .navbar .nav-link.active,
 .navbar .nav-link:hover {
-    color: #da8aff;
+    color: #ba588e;
 }
 
 .text-big {
     font-weight: 300;
     letter-spacing: 4px;
-    color: #c176bb;
+    color: #d572a8;
     text-transform: uppercase;
     font-size: 30px;
 }
@@ -954,12 +955,12 @@ a:hover {
 
 
 .btn-lg-banner {
-    background: #fc92fa !important;
-    border-color: #fc92fa !important;
+    background: #d572a8 !important;
+    border-color: #d572a8 !important;
 }
 .btn-lg-banner:hover {
-    background: #d167d0 !important;
-    border-color: #d167d0 !important;
+    background: #9b527b !important;
+    border-color: #9b527b !important;
 }
 
 
@@ -967,13 +968,13 @@ a:hover {
 
 /*--------------------  css for hot mails ---------------*/
 .color-title{
-    color: #fc92fa;
+    color: #d572a8;
 }
 .display-5{
-    color: #ebe5ff;
+    color: #6c5863;
     text-transform: uppercase;
 }
 
 .bg-color{
-    background: #8070b7;
+    background: #ffebf6;
 }
